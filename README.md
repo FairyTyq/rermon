@@ -1,6 +1,6 @@
 # RMON
-## Redis监控工具
-### 环境安装:
-'''
-pip install -r requirements.txt
-'''
+## Redis鐩戞帶宸ュ叿
+### 鐜瀹夎:
+
+    pip install -r requirements.txt
+
